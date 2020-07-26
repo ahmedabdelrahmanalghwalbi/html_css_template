@@ -487,65 +487,6 @@ margin-top: 80px;
 }
 /* END COUNT */
 
-
-
-/* START PRICING */
-.pricing .pricing-items{
-    overflow: hidden;
-    margin-top: 70px;
-}
-.pricing .pricing-items .pricing-item{
-    float: left;
-    width: 30%;
-    border: 1px solid #e8e8e8;
-    text-align: center;
-    padding: 10px;
-}
-.pricing .pricing-items .pricing-item.marg{
-    margin-right: 2%;
-    margin-left: 2%;
-}
-.price-header{
-    color: grey;
-    margin: 15px 0;
-    font-size: 20px;
-    text-transform: uppercase;    
-}
-.price{
-    border: 2px solid #6195ff;
-    width: 100px;
-    height: 100px;
-    margin: auto;
-    border-radius: 50%;
-    text-align: center;
-}
-.price .doller{
-    padding-top: 18px;
-    font-size: 30px;
-    font-weight: bold;
-}
-.price .doller-span{
-    padding-top: 18px;
-    font-size: 14px;
-}
-.pricing-desc{
-    color: grey;
-    line-height: 1.8;
-    margin: 10px 20px;
-}
-.pricing-button{
-    margin: 20px 0;
-    background: none;
-    border: 2px solid #6195ff;
-    width: 120px;
-    height: 45px;
-    font-size: 15px;
-    color: #6195ff;
-}
-/* END PRICING */
-
-
-
 /* START NEWS */
 .news-section .news-items{
     overflow: hidden;
